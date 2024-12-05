@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Graduando em Ciência da Computação<br>👯 Desenvolvedor de Software Low-Code Jr<br>🤝 Sempre em busca de conhecimento e disposto a ajudar<br>
+🔭 Graduando em Ciência da Computação<br>👯 Desenvolvedor de Software Jr<br>🤝 Sempre em busca de conhecimento e disposto a ajudar<br>
 
 
 ## 🌐 Socials:
